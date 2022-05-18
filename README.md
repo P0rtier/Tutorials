@@ -8,4 +8,5 @@
 
 # Remote Exercises
   Remote Exercises folder gathers my first steps into the simple Client - Server connections.  
-  The exercises revolved around checking connectivity between Server and a Client and, exchange of certain data between them.  
+  The exercises revolved around checking connectivity between Server and a Client and, exchange of certain data between them. 
+  Link to the Tutorial: [RemoteConnectionTutorial](https://www.youtube.com/watch?v=eHFMRPc1Qe0)
