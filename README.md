@@ -1,5 +1,5 @@
 # Tutorials
-# This repository consists various tutorials I've watched and code along with.
+ This repository consists various tutorials I've watched and code along with.
 
 # SnakeJavaTutorial
   Snake Java tutorial is a simple snake game implemented in Java Swing.
